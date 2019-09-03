@@ -1,6 +1,6 @@
 ## alpine-openjdk
 
-alpine-openjdk is Apline Linux based Open JDK 8 installation. See CHANGELOG.md for detail description.
+alpine-openjdk is Alpine Linux based Open JDK 8 installation. See CHANGELOG.md for detail description.
 
 
 ## Prerequisites
