@@ -10,8 +10,8 @@ Initial release.
 - Open JDK 8.212.04-r1 
 - bash 4.4.19-r1 
 - curl 7.61.1-r2
-- net-tools=1.60_git20140218-r2 
-- nano=2.9.8-r0
+- net-tools 1.60_git20140218-r2 
+- nano 2.9.8-r0
 
 <!--
 ### Changed
